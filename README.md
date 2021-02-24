@@ -10,3 +10,4 @@ The PID controller has two sets of coeffcicents for the heater and the cooler be
 The TMP36 circuit should be grounded separately from the peltier elements to avoid interference.
 
 An image of the module is attached here. A schematic of the circuit will be uploaded later.
+The libraries used in this code for PID and implementing a moving average filter for the temperature sensor can be downloaded from the Arduino library manager.
